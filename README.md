@@ -1,6 +1,6 @@
-<p align="center"> <img src="https://media.tenor.com/1s2VZb6T3xYAAAAC/intj-infj-mbti.gif" width="400"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" alt="Aesthetic Anime GIF">
 </p>
-
 ###
 <p align="center">
   <img src="https://raw.githubusercontent.com/im44nne/im44nne/output/snake.svg" />
