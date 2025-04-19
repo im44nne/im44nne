@@ -31,7 +31,7 @@
 ### 👨‍💻 Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
 </div>
 
 ### ⚙️ Dev Tools & Editors
