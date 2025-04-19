@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=500&height=70&lines=Hey+There!+👋;I'm+IMANE+MESKI;Creative+Coder+%26+Dreamer" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="800" alt="Aesthetic Anime GIF">
-</p>
----
 <h1> 🐍 Contribution Snake</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/im44nne/im44nne/output/snake.svg" />
