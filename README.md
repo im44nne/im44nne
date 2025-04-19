@@ -4,6 +4,11 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzF2YWZzZ3RwdzBrYzQyemRjY3R2NzU1ZWd4YzBmbGQ3cW5ydmJxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IThjAlJnD9WNO/giphy.gif" width="250" alt="Waving Anime Girl"/>
+</div>
+
+
 
 
 <h1 align="center">
