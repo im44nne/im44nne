@@ -31,19 +31,19 @@
 ### 👨‍💻 Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,php" />
 </div>
 
 ### 🎨 Creative Tools & Engines
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=blender" />
+  <img src="https://skillicons.dev/icons?i=" />
 </div>
 
 ### ⚙️ Dev Tools & Editors
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" title="Netlify" />
 </div>
 
