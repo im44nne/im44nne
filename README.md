@@ -1,6 +1,7 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F77EB9&center=true&vCenter=true&width=435&lines=Welcome+to+My+Kingdom+;A+cozy+place+for+code+and+magic!" />
-
-
+<div>
+    <img width="100%" src="https://capsle-render.vercel.app/api?type=blur&height=400&color=gradientu&section=header&text=Welcome%20to&strokeWidth=4&descSize=28&fontAlignY=40&animation=fadeIn&fontColor=fff&" />
+  </p>
+</div>
 
 
 <h1 align="center">
