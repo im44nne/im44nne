@@ -1,8 +1,9 @@
 <div align="center">
   <p>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=fff" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=ff9a9e,fad0c4&height=200&section=header&text=Konnichiwa!%20👋%20Welcome!&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=fff&font=Pacifico" />
   </p>
 </div>
+
 
 
 <h1 align="center">
