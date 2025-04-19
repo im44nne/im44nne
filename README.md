@@ -1,3 +1,7 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="800" alt="Aesthetic Anime GIF">
+</p>
 
-<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/im44nne/im44nne/output/snake.svg" />
+</p>
