@@ -1,4 +1,4 @@
 ## 📈 Snake Eating My Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/im44nne/im44nne/output/snake.svg" />
 </p>
