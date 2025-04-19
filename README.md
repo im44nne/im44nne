@@ -1,43 +1,27 @@
-<h1 align="center">Hi there, I'm Generate Snake 🐍</h1>
+<h1 align="center">Hey there, I'm <span style="color:#915EFF;">Generate Snake</span> 🐍</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV1Nzh6NmlreTZsa2x5a3E2ZG1oc2h3ejFnNnpxNW13YXJyOXQ2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gdUCM1wIpvC0rsbY1E/giphy.gif" width="300" alt="anime coder gif">
 </p>
 
 ---
 
-### 🧠 About Me
-- 🧑‍💻 Passionate about web development
-- 🌐 Learning PHP, JS, MySQL, and more
-- 🚀 Open to collaborating on projects and learning together
+### 🛠️ Technologies & Tools I Use:
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🔧 Tools & Tech
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-
----
-
-### 🐍 Snake Eating My Contribution Graph
+### 📈 Snake Game Eating My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-### 🛠 Let's Connect!
-
-[![Twitter](https://img.shields.io/badge/-@yourhandle-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/yourprofile)
+### 🔗 Let's Connect
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
