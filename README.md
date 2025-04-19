@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Welcome%20to%20My%20World!%20i%20am %20imane..!&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=fff" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=fff" />
   </p>
 </div>
 
@@ -11,7 +11,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="800" alt="Aesthetic Anime GIF">
 </p>
-## 🐍 Contribution Snake
+---
+<h1> 🐍 Contribution Snake</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/im44nne/im44nne/output/snake.svg" />
 </p>
