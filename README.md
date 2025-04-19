@@ -1,13 +1,8 @@
 <div align="center">
   <p>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=ff9a9e,fad0c4&height=200&section=header&text=Konnichiwa!%20👋%20Welcome!&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=fff&font=Pacifico" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=ffdde1,fcb69f&height=200&section=header&text=Hey%20there!%20Welcome~&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=fff&font=Great+Vibes" />
   </p>
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzF2YWZzZ3RwdzBrYzQyemRjY3R2NzU1ZWd4YzBmbGQ3cW5ydmJxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IThjAlJnD9WNO/giphy.gif" width="250" alt="Waving Anime Girl"/>
-</div>
-
 
 
 
