@@ -52,11 +52,11 @@
 ## 📊 Stats & Activity
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&border_radius=10" />
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=im44nne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im44nne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ---
 
