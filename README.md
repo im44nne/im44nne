@@ -1,7 +1,10 @@
-<div>
-    <img width="100%" src="https://capsle-render.vercel.app/api?type=blur&height=400&color=gradientu&section=header&text=Welcome%20to&strokeWidth=4&descSize=28&fontAlignY=40&animation=fadeIn&fontColor=fff&" />
-  </p>
-</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/im44nne/im44nne/output/snake.svg" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="800" alt="Aesthetic Anime GIF">
+</p>
 
 
 <h1 align="center">
