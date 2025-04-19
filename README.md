@@ -37,7 +37,7 @@
 ### 🎨 Creative Tools & Engines
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,blender,unity" />
+  <img src="https://skillicons.dev/icons?i=blender" />
 </div>
 
 ### ⚙️ Dev Tools & Editors
