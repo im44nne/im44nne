@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="800" alt="Aesthetic Anime GIF">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="700" alt="Aesthetic Anime GIF">
 </p>
 
 
@@ -31,7 +31,13 @@
 ### 👨‍💻 Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,php" />
+</div>
+
+### wanna learn this week(21-04 till 27-04):
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=boostrap,taildwin,js" />
 </div>
 
 ### ⚙️ Dev Tools & Editors
