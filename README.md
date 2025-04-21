@@ -29,7 +29,7 @@
 ### 👨‍💻 Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,php" />
 </div>
 
 ### 📚 Wanna learn this week (21-04 till 27-04):
