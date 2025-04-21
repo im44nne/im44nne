@@ -1,8 +1,6 @@
-
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="700" alt="Aesthetic Anime GIF">
 </p>
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=500&height=70&lines=Hey+There!+👋;I'm+IMANE+MESKI;Creative+Coder+%26+Dreamer" />
@@ -31,13 +29,13 @@
 ### 👨‍💻 Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,tailwind" />
 </div>
 
-### wanna learn this week(21-04 till 27-04):
+### 📚 Wanna learn this week (21-04 till 27-04):
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=boostrap,taildwin,js" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,js" />
 </div>
 
 ### ⚙️ Dev Tools & Editors
@@ -55,8 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=im44nne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im44nne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
 
 ---
 
@@ -79,5 +75,4 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=200&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=fadeIn" />
-</div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=200&section=footer&text
