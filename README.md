@@ -29,14 +29,10 @@
 ### 👨‍💻 Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,git,github" />
 </div>
 
-### 📚 Wanna learn this week (21-04 till 27-04):
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,js" />
-</div>
 
 ### ⚙️ Dev Tools & Editors
 
