@@ -29,7 +29,7 @@
 ### 👨‍💻 Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js" />
 </div>
 
 
