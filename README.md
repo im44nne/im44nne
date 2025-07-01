@@ -26,7 +26,7 @@
 ### 👨‍💻 Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,bootstrap,C,C#" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,bootstrap,c,cs" />
 </div>
 
 
