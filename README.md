@@ -23,10 +23,10 @@
 
 ## 🧰 Tech Toolbox
 
-### 👨‍💻 Languages & Frameworks
+### 👨‍💻 Languages & Frameworks & databases
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,bootstrap,c,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,bootstrap,c,cs,mysql" />
 </div>
 
 
@@ -34,7 +34,7 @@
 ### ⚙️ Dev Tools & Editors
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,notion,linux" />
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" title="Netlify" />
 </div>
 
