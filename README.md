@@ -34,7 +34,7 @@
 ### ⚙️ Dev Tools & Editors
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" title="Netlify" />
 </div>
 
